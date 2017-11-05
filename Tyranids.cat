@@ -4246,7 +4246,7 @@
               <infoLinks/>
               <modifiers/>
               <characteristics>
-                <characteristic name="Description" characteristicTypeId="3218-8585-9459-9191" value="Once per game, you may place a suitable model or marker in contact with your Team Leader’s base. It then acts as a friendly synapse creature for the rest of the game. It cannot move or be affected by either team in any way."/>
+                <characteristic name="Description" characteristicTypeId="3218-8585-9459-9191" value="Once per game, you may place a suitable model or marker in contact with your Team Leader’s base. It then acts as a friendly &lt;Hive Fleet&gt; synapse creature for the rest of the game. It cannot move or be affected by either team in any way."/>
               </characteristics>
             </profile>
           </profiles>
@@ -4882,7 +4882,7 @@
       <infoLinks/>
       <modifiers/>
       <characteristics>
-        <characteristic name="Description" characteristicTypeId="3218-8585-9459-9191"/>
+        <characteristic name="Description" characteristicTypeId="3218-8585-9459-9191" value="&lt;Hive Fleet&gt; models automatically pass Morale tests if they are within 12&quot; of any friendly &lt;Hive Fleet&gt; models with this ability."/>
       </characteristics>
     </profile>
     <profile id="f392-f069-1014-07ed" name="Death from Below" hidden="false" profileTypeId="ddee-43ab-3ac0-5b0c" profileTypeName="Abilities">
